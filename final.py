@@ -1083,5 +1083,4 @@ for x in range(0,len(listejoueurs)):
             pass
 bttn_quit = tk.Button(master=frame13, text="Quit", command=lambda:[window.destroy()], fg='White', bg='Grey',font=('Helvetica',10,'bold'))
 bttn_quit.pack(pady=10)
-window.mainloop()    
 window.mainloop()
